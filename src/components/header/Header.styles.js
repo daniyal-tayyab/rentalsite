@@ -66,6 +66,7 @@ export const Services = styled.div`
   flex-direction: column;
   padding: 1rem;
   padding-right: 2rem;
+  background-color: #fff;
 `;
 
 export const Company = styled.div`
